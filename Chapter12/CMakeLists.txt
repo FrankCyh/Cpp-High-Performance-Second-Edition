@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.8)
 
-project(Chapter12-Coroutines_And_Lazy_Generators)
+project(chapter12)
 
 file(GLOB CHAPTER_SRC_FILES "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp" "${CMAKE_CURRENT_SOURCE_DIR}/*.h")
 

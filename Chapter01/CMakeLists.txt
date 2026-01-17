@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(Chapter01-A_Brief_Introduction_to_C++)
+project(chapter01)
 
 file(GLOB CHAPTER_SRC_FILES "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp" "${CMAKE_CURRENT_SOURCE_DIR}/*.h")
 

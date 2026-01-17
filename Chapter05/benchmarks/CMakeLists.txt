@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(Chapter05-Algorithms_Benchmarks)
+project(chapter05_benchmark)
 
 file(GLOB BM_SRC_FILES "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp")
 

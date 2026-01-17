@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(Chapter06-Ranges_And_Views)
+project(chapter06)
 
 file(GLOB CHAPTER_SRC_FILES "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp" "${CMAKE_CURRENT_SOURCE_DIR}/*.h")
 

@@ -37,3 +37,9 @@ CMakeFiles
 # Custom
 file.txt
 Testing/
+
+# ADD BEGIN
+.DS_Store
+release-build/
+.docker-ssh-config/
+# ADD END

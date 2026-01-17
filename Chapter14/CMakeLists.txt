@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.8)
 
-project (Chapter14-Parallel_Algorithms)
+project(chapter14)
 
 file(
   GLOB

@@ -122,7 +122,7 @@ $ make
 
 It's now possible to execute each chapter on its own, like this:
 ```
-$ Chapter01/Chapter01-A_Brief_Introduction_to_C++
+$ ./chapter01
 ```
 
 Or you can run all the examples using the command:
@@ -151,7 +151,7 @@ $ make
 
 After the code has been built in `Release` mode, you can now run an individual benchmark like this:
 ``` 
-$ ./Chapter02/benchmarks/Chapter02-Essential_C++_Techniques_Benchmarks 
+$ ./chapter02_benchmark 
 ```
 
 
@@ -241,7 +241,7 @@ $ make
 You can now execute each chapter on its own, like this:
 
 ```
-$ Chapter01/Chapter01-A_Brief_Introduction_to_C++
+$ ./chapter01
 ```
 
 Or you can run all the examples using the command:
@@ -271,7 +271,7 @@ $ make
 
 After the code has been built in `Release` mode, you can now run an individual benchmark like this:
 ``` 
-$ ./Chapter02/benchmarks/Chapter02-Essential_C++_Techniques_Benchmarks 
+$ ./chapter02_benchmark 
 ```
 
 

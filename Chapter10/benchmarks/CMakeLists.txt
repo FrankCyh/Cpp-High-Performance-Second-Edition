@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(Chapter10-Proxy_Objects_And_Lazy_Evaluation_Benchmarks)
+project(chapter10_benchmark)
 
 file(GLOB BM_SRC_FILES RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}" "*.cpp")
 
